@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO MG HD">
+    <display-name lang="pt">GLOBO MG HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GLOBO MG HD*">
+    <display-name lang="pt">GLOBO MG HD*</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="es">AMC HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AMC*">
+    <display-name lang="pt">AMC*</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
